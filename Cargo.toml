@@ -13,6 +13,7 @@ readme = "README.md"
 
 [dependencies.plotters-backend]
 git = "https://github.com/plotters-rs/plotters"
+branch = "master"
 
 [dependencies]
 js-sys= "0.3.32"
@@ -28,3 +29,4 @@ wasm-bindgen-test = "^0.3.17"
 [dev-dependencies.plotters]
 default_features = false
 git = "https://github.com/plotters-rs/plotters"
+branch = "master"
